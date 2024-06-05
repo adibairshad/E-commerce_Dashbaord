@@ -1,5 +1,19 @@
-# Power-BI-Projects
+# My Power BI Dashboard
 
-## E-commerce sales dashboard(https://github.com/adibairshad/Power-BI-Projects/blob/main/Ecommerce%20dashboard.pbix)
+This repository contains my Power BI dashboard in PBIX format.
+
+## Dashboard Overview
+
+## E-commerce sales dashboard
 Analyzed e-commerce data and developed an interactive dashboard.
 Established connections, integrated new tables, performed calculations to manipulate data, and implemented user-driven parameters for visualization.
+
+## How to Use
+
+1. Download the `Ecommerce dashboard.pbix` file.
+2. Open it in Power BI Desktop.
+3. Explore the various visualizations and filters.
+
+## Dependencies
+
+- Power BI Desktop
