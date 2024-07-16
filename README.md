@@ -1,9 +1,3 @@
-# My Power BI Dashboard
-
-This repository contains my Power BI dashboard in PBIX format.
-
-## Dashboard Overview
-
 ## E-commerce sales dashboard
 Analyzed e-commerce data and developed an interactive dashboard.
 Established connections, integrated new tables, performed calculations to manipulate data, and implemented user-driven parameters for visualization.
